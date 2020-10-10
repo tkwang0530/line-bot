@@ -1,0 +1,23 @@
+{
+  "name": "link-bot",
+  "version": "1.0.0",
+  "description": "This is a readme file.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tkwang0530/line-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tkwang0530/line-bot/issues"
+  },
+  "homepage": "https://github.com/tkwang0530/line-bot#readme",
+  "dependencies": {
+    "linebot": "^1.6.1"
+  }
+}
